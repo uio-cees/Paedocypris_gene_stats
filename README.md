@@ -1,2 +1,6 @@
 # Paedocypris_gene_stats
-Repository for scripts used in analyzing exon- and intron-lengths in Paedocypris and zebrafish
+These custom scripts were used to calculate gene statistics based for Paedocypris and zebrafish. 
+
+Run as: ruby SCRIPT.rb FILE
+
+
